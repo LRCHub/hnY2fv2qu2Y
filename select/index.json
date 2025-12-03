@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "sad but sweet",
+  "base_artist": "gesunokiwamiotome",
+  "createdAt": "2025-12-03T12:59:05.828411Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sad But Sweet",
+      "artist": "gesunokiwamiotome",
+      "has_synced": false,
+      "path": "select/01_Sad_But_Sweet_gesunokiwamiotome.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "sad but sweet",
+      "artist": "ゲスの極み乙女",
+      "has_synced": true,
+      "path": "select/02_sad_but_sweet_ゲスの極み乙女.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "sad but sweet",
+      "artist": "Gesu No Kiwami Otome",
+      "has_synced": true,
+      "path": "select/03_sad_but_sweet_Gesu_No_Kiwami_Otome.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sad but sweet",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_sad_but_sweet_ゲスの極み乙女。.txt"
+    }
+  ]
+}
